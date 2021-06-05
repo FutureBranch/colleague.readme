@@ -1,18 +1,18 @@
 # Steve Tauber
 
-###### November 2018
+###### June 2021
 
 ## Intro
 
 Hi, I'm an American that lives in Croatia with my wife, Maggie. I've had a huge variety of jobs and lived in a ton of places. I like the Seattle Sounders, dogs (currently owning a Golden named Dina), playing and designing board games, and reading sci-fi. Ask me about US politics :D
 
-I'm a reformed developer and I want to develop skills to move towards a COO position. I've also worked in telecom, call centers, and a bodega. I like double-diamond design. I prefer removable code over expandable code.
+I'm a reformed developer. I've also worked in telecom, call centers, and a Mexican bodega. I like double-diamond design. I prefer removable code over expandable code.
 
 I'm an extrovert and a high D ([disc](https://en.wikipedia.org/wiki/DISC_assessment)).
 
 ## Role
 
-I'm a Technical Product Manager. My role is to make sure developers know what to focus on and to help answer technical questions about the product's roadmap.
+I'm a CTO in residence. My role is to help developers focus on what's important and to help answer technical questions about the product's roadmap.
 
 ## Values
 
